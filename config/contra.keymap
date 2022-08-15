@@ -18,10 +18,10 @@
 
         default_layer {
             bindings = <
-    &kp F13   &kp F14     &kp F15    &kp F16     &kp F17       &kp F18      &kp F19     &kp F20        &kp F21     &kp F22     &kp F23    &kp F24
-    &kp F16   &kp F17     &kp F18    &kp D     &kp F       &kp G      &kp H     &kp J        &kp K     &kp L     &kp SEMI &kp SQT
-    &kp F19 &kp F20     &kp F21    &kp C     &kp V       &kp B      &kp N     &kp M        &kp COMMA &kp DOT   &kp FSLH &kp ENTER
-    &kp F22 &kp F23  &kp F24 &kp BSLH  &to DEFAULT &kp SPACE  &trans    &to NUM_MODS &kp LEFT  &kp RIGHT &kp UP   &kp DOWN
+    &kp F13   &kp F14     &kp F15    &kp M0     &kp M1       &kp M2      &kp M3     &kp         &kp      &kp 7     &kp 8    &kp 9
+    &kp F16   &kp F17     &kp F18    &kp M4     &kp M5       &kp M6      &kp M7     &kp J        &kp K     &kp 4     &kp 5 &kp 6
+    &kp F19 &kp F20     &kp F21    &kp M8     &kp M9       &kp M10      &kp M11     &kp M        &kp COMMA &kp 1   &kp 2 &kp 3
+    &kp F22 &kp F23  &kp F24 &kp M12  &kp M13 &kp M14  &kp M15    &kp NUM_MODS &kp LEFT  &kp 0 &kp .   &kp ENTER
             >;
         };
 
